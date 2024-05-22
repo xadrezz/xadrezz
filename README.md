@@ -7,4 +7,5 @@ Meu nome é Renan (Xadrez)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Bora terminar esse projeto?
-![]https://tenor.com/pt-BR/view/wink-and-point-ape-gorilla-gif-13430790
+
+![](https://media1.tenor.com/m/7RgKw-Mxlf8AAAAC/wink-and.gif)
